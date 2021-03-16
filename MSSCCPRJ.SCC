@@ -1,0 +1,28 @@
+[SCC]
+SCC=This is a source code control file
+
+[Progetto1.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[Progetto2.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[Progetto3.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[ProgettoEsame.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[ProgettoMDI.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+[EsempioVb.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+[Videoteca.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
